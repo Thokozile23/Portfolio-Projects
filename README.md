@@ -1,2 +1,2 @@
-# My_Portfolio
-my project portfolio
+# Cleaning Data and Performing Exploratory Data Analysis
+For my project, I analyzed a dataset called "Layoffs," which contained data from 2020 to 2023 about the number of people laid off by various companies at different stages of their business cycles. The dataset covered several countries and industries, including retail. The goal of the project was to clean the data using SQL to enable exploratory data analysis (EDA), uncover insights, and identify unusual patterns within the data.  
