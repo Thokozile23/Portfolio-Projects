@@ -33,7 +33,9 @@ To streamline the dataset:
 •	Dropped the row_num column, which was used only for duplicate identification.
 
 **EXPLORATORY DATA ANALYSIS**
+
 Key Insights and Findings
+
 1.	**Layoff Statistics**
 •	Highest Layoff Count: 12,000 in a single instance.
 •	Maximum Layoff Percentage: 100% across all records.
