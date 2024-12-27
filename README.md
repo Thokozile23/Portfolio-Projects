@@ -1,6 +1,7 @@
 **World Layoffs Data**
 
 **Overview**
+
 This project analyzes a dataset called World Layoffs, sourced from kaggle and combined into one csv file in https://github.com/Thokozile23/Portfolio-Projects/blob/6e07a9fbf155c74efcb637bda17f58220924d796/layoffs.csv. The dataset focuses on mass layoffs in several countries between March 11, 2020, to March 6, 2023. It includes information about the country, companies, layoff dates, industries, and the percentage of workforce affected. This analysis explores how layoffs occured since the COVID-19 pandemic.
 
 **Data Cleaning Process**
